@@ -50,4 +50,4 @@ I am an enthusiastic and dedicated Computer Science graduate with a passion for 
 
 ## 📫 Let's Connect
 * **Email:** ahmed.shatil777@gmail.com
-* **LinkedIn:** [Shatil Ahmed Chowdhury](https://www.linkedin.com/in/ifaz-alamgir-407375247)
+* **LinkedIn:** [Shatil Ahmed Chowdhury](https://www.linkedin.com/in/shatil-chowdhury-a413642ab/)
