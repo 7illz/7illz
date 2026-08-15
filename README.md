@@ -1,6 +1,6 @@
 # Hi there, I'm Shatil Ahmed Chowdhury 👋
 
-I am an enthusiastic and dedicated Computer Science graduate with a passion for technology, problem-solving, and continuous learning. I recently graduated from BRAC University with a Bachelor of Science in Computer Science, earning a Highest Distinction with a CGPA of 3.89 / 4.00. I am adaptable, positive, and eager to apply my skills to build a successful career in the tech industry.
+I am an enthusiastic and dedicated Computer Science graduate with a passion for technology, problem-solving, and continuous learning. I recently graduated from BRAC University with a Bachelor of Science in Computer Science. I am adaptable, positive, and eager to apply my skills to build a successful career in the tech industry.
 
 ## Tech Stack
 
@@ -24,7 +24,7 @@ I am an enthusiastic and dedicated Computer Science graduate with a passion for 
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
     <td valign="top" width="50%">
-      <b>ML & NLP</b><br>
+      <b>Machine Learning</b><br>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -53,4 +53,4 @@ I am an enthusiastic and dedicated Computer Science graduate with a passion for 
 
 ## 📫 Let's Connect
 * **Email:** ahmed.shatil777@gmail.com
-* **LinkedIn:** [Shatil Ahmed Chowdhury](https://linkedin.com/in/your-profile-url)
+* **LinkedIn:** [Shatil Ahmed Chowdhury](https://www.linkedin.com/in/shatil-chowdhury-a413642ab/)
