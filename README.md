@@ -42,7 +42,9 @@ I am an enthusiastic and dedicated Computer Science graduate with a passion for 
 <br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7illz&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/7illz)
+
 <br/>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7illz&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/7illz)
 
 ## 💼 Experience
