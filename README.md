@@ -41,11 +41,9 @@ I am an enthusiastic and dedicated Computer Science graduate with a passion for 
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7illz&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/7illz)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7illz&theme=github_dark)](https://github.com/7illz)
 
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7illz&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/7illz)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7illz&theme=github_dark)](https://github.com/7illz)
 
 ## 💼 Experience
 * **Student Tutor (BRAC University):** Mentored students during 1-on-1 consultation hours and clarified complex mathematical concepts for Complex Variables & Laplace Transforms. Evaluated coursework and provided individualized feedback to improve performance.
