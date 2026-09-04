@@ -1,6 +1,6 @@
 # Hi there, I'm Shatil Ahmed Chowdhury 
 
-I am an enthusiastic and dedicated Computer Science graduate with a passion for technology, problem-solving, and continuous learning. I recently graduated from BRAC University with a Bachelor of Science in Computer Science. I am adaptable, positive, and eager to apply my skills to build a successful career in the tech industry.
+I am an enthusiastic and dedicated Computer Science graduate with a passion for technology, problem-solving, and continuous learning. I recently graduated from BRAC University with a Bachelor of Science in Computer Science. I've solved 100+ problems on LeetCode, sharpening my algorithmic thinking and problem-solving skills. I am adaptable, positive, and eager to apply my skills to build a successful career in the tech industry.
 
 ## Tech Stack
 
