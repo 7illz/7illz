@@ -53,4 +53,4 @@ I am an enthusiastic and dedicated Computer Science graduate with a passion for 
 * **Email:** ahmed.shatil777@gmail.com
 * **LinkedIn:** [Shatil Ahmed Chowdhury](https://www.linkedin.com/in/shatil-chowdhury-a413642ab/)
 * **LeetCode:** [5PcEudjBLj](https://leetcode.com/u/5PcEudjBLj/)
-* * **Portfolio:** [shatil-portfolio.vercel.app](https://shatil-portfolio.vercel.app/)
+* **Portfolio:** [shatil-portfolio.vercel.app](https://shatil-portfolio.vercel.app/)
